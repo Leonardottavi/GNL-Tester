@@ -16,6 +16,9 @@ make dockera = launch mandatory tests + bonus tests in linux container
 Potete cambiare il timeout value in Makefile
 ![alt text](https://i.imgur.com/jUimpaC.png)
 
+# Output
+OK        = tutto bene.
+KO        = avete sbagliato tutto.
 MOK / MKO = avete sbagliato la memoria del malloc (anche quella del vostro membro).
 
 # Report bugs / Improvement
