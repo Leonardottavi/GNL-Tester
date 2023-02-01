@@ -16,17 +16,6 @@ make dockera = launch mandatory tests + bonus tests in linux container
 Potete cambiare il timeout value in Makefile
 ![alt text](https://i.imgur.com/jUimpaC.png)
 
-
-# Setup docker in goinfre for 42 mac
-```
-rm -rf ~/Library/Containers/com.docker.docker
-rm -rf ~/.docker
-rm -rf /goinfre/${USER}/docker /goinfre/${USER}/agent
-mkdir -p /goinfre/${USER}/docker /goinfre/${USER}/agent
-ln -s /goinfre/${USER}/agent ~/Library/Containers/com.docker.docker
-ln -s /goinfre/${USER}/docker ~/.docker
-```
-
 MOK / MKO = avete sbagliato la memoria del malloc (anche quella del vostro membro).
 
 # Report bugs / Improvement
