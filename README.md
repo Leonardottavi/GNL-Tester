@@ -1,4 +1,4 @@
-# gnlTester (2023)
+# Get_Next_Line Tester (2023)
 Questo tester serve a voi plebei per non bestemmiare nel caso vogliate pushare get_next_line, siate inteligenti lodate il sole.
 Clonate questa repository nella vostra bellissima ma poco funzionale cartella, di seguito i comandi da inserire nel vostro sporco terminale.
 
