@@ -27,13 +27,7 @@ ln -s /goinfre/${USER}/agent ~/Library/Containers/com.docker.docker
 ln -s /goinfre/${USER}/docker ~/.docker
 ```
 
-
-# Outputs
-![alt text](https://i.imgur.com/u4Li6AM.png)
-
-
 MOK / MKO = avete sbagliato la memoria del malloc (anche quella del vostro membro).
-
 
 # Report bugs / Improvement
 fixateli per cazzi vostri.
