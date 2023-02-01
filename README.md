@@ -30,10 +30,9 @@ ln -s /goinfre/${USER}/docker ~/.docker
 
 # Outputs
 ![alt text](https://i.imgur.com/u4Li6AM.png)
-![alt text](https://i.imgur.com/KL3mc4F.png)
-![alt text](https://i.imgur.com/0AQa9eG.png)
 
-MOK / MKO = test about your malloc size (this shouldn't be tested by moulinette)
+
+MOK / MKO = avete sbagliato la memoria del malloc (anche quella del vostro membro).
 
 
 # Report bugs / Improvement
