@@ -1,7 +1,6 @@
 # gnlTester (2023)
 Questo tester serve a voi plebei per non bestemmiare nel caso vogliate pushare get_next_line, siate inteligenti lodate il sole.
 Clonate questa repository nella vostra bellissima ma poco funzionale cartella, di seguito i comandi da inserire nel vostro sporco terminale.
-![alt text](https://i.imgur.com/uupv1UH.png)
 
 Si consiglia questa canzone in sottofondo durante il test. https://www.youtube.com/watch?v=QJJYpsA5tv8
 
